@@ -1,6 +1,6 @@
 ## Views Bug Reports
 
-###
+### Steps to Report
 
 1. Open an issue in the [issues](https://github.com/views-org/bugs/issues) tab.
 2. Describe it with steps to reproduce, expected behaviour, browser and system information, etc.
